@@ -1,4 +1,4 @@
 # PodQuest_Jam
 Repositório para controle de versão e co-work do nosso projeto.
 
-Vamos tentar manter esse troço atualizado rs
+Versão da Unity: 2018.3 (vamos usar a mesma para não causas inconsistências)
